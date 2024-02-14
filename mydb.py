@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  7 13:30:41 2024
-
-@author: shrut
-"""
-
 import sqlite3
 
 class Student:
