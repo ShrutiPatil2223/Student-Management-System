@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  7 13:30:15 2024
-
-@author: shrut
-"""
-
 from tkinter import Frame, StringVar, Entry, Label, Button, messagebox, ttk
 from mydb import StudentManager
 
