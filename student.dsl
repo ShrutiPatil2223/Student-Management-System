@@ -1,0 +1,4 @@
+CREATE Pimplica 20 A CS
+CREATE Daniel 29 B DS 
+UPDATE 1 Pimplica 21 A CS
+UPDATE 2 Daniel 29 A+ DS 
