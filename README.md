@@ -10,4 +10,5 @@ There are three files related to the project :
 - mydb.py
 - student_gui.py
   
-  
+### 🔥 My Stats:
+- GitHub Streak: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShrutiPatil2223&theme=cobalt)](https://github.com/ShrutiPatil2223)  
