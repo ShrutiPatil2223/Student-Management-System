@@ -9,6 +9,9 @@ There are three files related to the project :
 - main.py
 - mydb.py
 - student_gui.py
+
+GUI of the project can be found here. 
   
-### 🔥 My Stats:
-- GitHub Streak: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShrutiPatil2223&theme=cobalt)](https://github.com/ShrutiPatil2223)  
+## 🔥 My Stats:
+- GitHub Streak:
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShrutiPatil2223&theme=cobalt)](https://github.com/ShrutiPatil2223)  
