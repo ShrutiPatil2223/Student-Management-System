@@ -11,4 +11,4 @@ There are three files related to the project :
 - student_gui.py
   
 ### 🔥 My Stats:
-- GitHub Streak: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShrutiPatil2223)](https://github.com/ShrutiPatil2223)  
+- GitHub Streak: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShrutiPatil2223&theme=cobalt)](https://github.com/ShrutiPatil2223)  
