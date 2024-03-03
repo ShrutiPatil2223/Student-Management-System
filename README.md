@@ -22,7 +22,7 @@ And most important is how it helps to track the project activities.
 
  My Stats:
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShrutiPatil2223&theme=cobalt)](https://github.com/ShrutiPatil2223)  
+ [[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShrutiPatil2223&theme=cobalt)](https://github.com/ShrutiPatil2223)  
 
 ## 2. UML Diagrams 
 For my project, I have used this 3 UML diagrams :
