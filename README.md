@@ -10,7 +10,7 @@ There are three files related to the project :
 - mydb.py
 - student_gui.py
 
-GUI of the project can be found here.[GUI]([URL](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/GUI_Screenshot%20.png))
+[GUI](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/GUI_Screenshot%20.png) of the project can be found here.
  
   
 ## 🔥 My Stats:
