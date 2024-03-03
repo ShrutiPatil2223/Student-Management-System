@@ -9,7 +9,9 @@ There are three files related to the project :
 - main.py
 - mydb.py
 - student_gui.py
+
 I have showed the Graphical User Interface in this project. 
+
 [GUI](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/GUI_Screenshot%20.png) of the project can be found here.
  
   
