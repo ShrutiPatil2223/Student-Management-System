@@ -13,7 +13,7 @@ I have showed the Graphical User Interface in this project.
 [GUI](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/GUI_Screenshot%20.png) of the project can be found here.
  
   
-## Git
+##1. Git
 I have never used git before, so being a novice user I am, while working on this project I got to know a lot about git. 
 Things I learned from the git are - Clone, push, pull, commit, seamless integration with other tools like in my project, they are sonarcloud and Gitlab-CI.
 
