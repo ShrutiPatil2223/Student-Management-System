@@ -22,10 +22,11 @@ And most important is how it helps to track the project activities.
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShrutiPatil2223&theme=cobalt)](https://github.com/ShrutiPatil2223)  
 
-## 2. UML
-For my my project, I have used this 3 UML diagrams :
-1. [Activity Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/0aaf8a70706785e4c1420de90f5653a4911635c3/UML%20diagrams_updated/Activity%20Diagram_update.jpg) - This activity diagram shows the workflow of the project.
-2. 
+## 2. UML Diagrams 
+For my project, I have used this 3 UML diagrams :
+1. [Activity Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/0aaf8a70706785e4c1420de90f5653a4911635c3/UML%20diagrams_updated/Activity%20Diagram_update.jpg) - This Activity Diagram shows the workflow of the student managemnt system.
+2. [Sequence Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/1cc59052e29656270753d4ac11e6e960a4bb97d3/UML%20diagrams_updated/sequence%20diagram_update.jpg) - This Sequence Diagram shows that connection and interaction between 3 objects via carrying out messages over the time.
+3. [Use Case Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/1cc59052e29656270753d4ac11e6e960a4bb97d3/UML%20diagrams_updated/use%20case_update.png) - This Use Case Diagram shows that interaction between user and student management system GUI.
 
 
 
