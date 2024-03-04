@@ -67,7 +67,7 @@ This is test stage screenshot [Test](https://github.com/ShrutiPatil2223/Student-
 This is screenshot of the whole [CI/CD](https://github.com/ShrutiPatil2223/Student-Management-System/blob/81fce9d5673fa662e88b1bb6f299b6bbf75e1814/Gitlab-CICD_pipeline.png) pipeline.
 
 
-<p style="color:red;">gitlab-ci file</p> - Its a configuration file which contains build,test and deployment stages. It includes dependencies which triggers/automate the CI/CD pipeline. [yaml file](https://github.com/ShrutiPatil2223/Student-Management-System/blob/81fce9d5673fa662e88b1bb6f299b6bbf75e1814/gitlab-ci.yml)
+gitlab-ci file - Its a configuration file which contains build,test and deployment stages. It includes dependencies which triggers/automate the CI/CD pipeline. [yaml file](https://github.com/ShrutiPatil2223/Student-Management-System/blob/81fce9d5673fa662e88b1bb6f299b6bbf75e1814/gitlab-ci.yml)
 
 ## 8. Unit tests
 ## 9. IDE(Spyder)
