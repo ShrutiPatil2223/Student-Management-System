@@ -39,6 +39,7 @@ I have drawn [DDD](https://github.com/ShrutiPatil2223/Student-Management-System/
 I have used sonarcloud to analyze the quality of the code. 
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)]
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bad&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=shrutipatil2223)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=shrutipatil2223&metric=alert_status)](https://sonarcloud.io/dashboard?id=shrutipatil2223)
 
 ## 5. Clean code Developement
 ## 6.& 7. Build and CI/CD
