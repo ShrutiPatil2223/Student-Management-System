@@ -69,6 +69,9 @@ This is screenshot of the whole [CI/CD](https://github.com/ShrutiPatil2223/Stude
 
 gitlab-ci file - Its a configuration file which contains build,test and deployment stages. It includes dependencies which triggers/automate the CI/CD pipeline. [yaml file](https://github.com/ShrutiPatil2223/Student-Management-System/blob/81fce9d5673fa662e88b1bb6f299b6bbf75e1814/gitlab-ci.yml)
 
+
+[Pipeline](https://gitlab.com/ShrutiPatil2223/Project-CICD/-/pipelines/1186616179)
+
 ## 8. Unit tests
 ## 9. IDE(Spyder)
 ## 10. Domain Specific Language
