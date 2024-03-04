@@ -38,14 +38,15 @@ I have drawn [DDD](https://github.com/ShrutiPatil2223/Student-Management-System/
 ## 4. Metrics
 I have used sonarcloud to analyze the quality of the code. [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 
+These are the metrics listed below : 
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
+- [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=ShrutiPatil2223_Student-Management-System)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 ## 5. Clean code Developement
 ## 6.& 7. Build and CI/CD
 ## 8. Unit tests
