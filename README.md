@@ -107,9 +107,11 @@ Here, is the attached [DSL file](https://github.com/ShrutiPatil2223/Student-Mana
 ## 11. Functional Programming
 
 To cover all the functional apsects, I have written a python program which calculates the age of the perticular student.
-1. Side-Effect-Free Functions:
 
-To view the relevant code, navigate to `functional_programming.py:42`.
+1. Side-Effect-Free Functions:
+Here, get_student_age function is side effect free function which calculates age of the student.
+
+[Fuctional Prgramming](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/functional_programming.py#L10)
 
 
 
