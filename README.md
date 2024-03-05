@@ -36,26 +36,43 @@ I have drawn [DDD](https://github.com/ShrutiPatil2223/Student-Management-System/
 
 
 ## 4. Metrics
-I have used sonarcloud to analyze the quality of the code. [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
+
+I have used sonarcloud to analyze the quality of the code. 
 
 These are the metrics listed below : 
 
-- [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
+- Quality Gate Status [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 
-- [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
+- Bugs [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 
-- [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
+- Code Smells [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 
-- [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
+- Duplicated Lines [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 
-- [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
+- Lines of Code [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 
-- [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
+- Maintainability Rating [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 
-- [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
+- Security Rating [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 
 ## 5. Clean code Developement
 ## 6.& 7. Build and CI/CD
+For me, point 6 and 7 are integrated. I have used Gitlab-CI for the build and Continuous Integration/Continuous Deployment. As I was searching for the build management tool, I got to know that Maven, Ant and Gradle are mainly used for java based project. As my project is in Python, hence I have used Gitlab-CI.
+
+This is build stage screenshot [Build](https://github.com/ShrutiPatil2223/Student-Management-System/blob/81fce9d5673fa662e88b1bb6f299b6bbf75e1814/Gitlab-Build_Stage.png) - As I started exploring the Gitlab-CI tool, it does not support project with GUI. Hence I have just build mydb.py.
+
+This is test stage screenshot [Test](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/Gitlab-Testing_stage.png) - In this stage I have ran my project's unttest_.py file.
+
+This is screenshot of the whole [CI/CD](https://github.com/ShrutiPatil2223/Student-Management-System/blob/81fce9d5673fa662e88b1bb6f299b6bbf75e1814/Gitlab-CICD_pipeline.png) pipeline.
+
+
+gitlab-ci file - Its a configuration file which contains build,test and deployment stages. It includes dependencies which triggers/automate the CI/CD pipeline. [yaml file](https://github.com/ShrutiPatil2223/Student-Management-System/blob/81fce9d5673fa662e88b1bb6f299b6bbf75e1814/gitlab-ci.yml)
+
+
+
+CI/CD - [![pipeline status](https://gitlab.com/ShrutiPatil2223/Project-CICD/badges/main/pipeline.svg)](https://gitlab.com/ShrutiPatil2223/Project-CICD/-/commits/main)
+
 ## 8. Unit tests
 ## 9. IDE(Spyder)
 ## 10. Domain Specific Language
