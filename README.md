@@ -103,7 +103,14 @@ In my project, DSL file is related to the the project only.
 I have written small dsl program which does the CRUD operation. To call the DSL dile, I have written a python program as an interpereter to call the DSL file. Everything is gettign stored in students.db database file. So, I have used SQLite Viewer Web App(Online website) to see my database file.
 
 Here, is the attached [DSL file](https://github.com/ShrutiPatil2223/Student-Management-System/blob/84ab4e762cdc8137e1178a9c6e741711a08f25da/student.dsl) and [Interepreter file](https://github.com/ShrutiPatil2223/Student-Management-System/blob/84ab4e762cdc8137e1178a9c6e741711a08f25da/dsl_interpreter.py) and screenshot of the [students.db](https://github.com/ShrutiPatil2223/Student-Management-System/blob/84ab4e762cdc8137e1178a9c6e741711a08f25da/dsl_interpreter_db.png) after running interpreter file.
+
 ## 11. Functional Programming
+
+To cover all the functional apsects, I have written a python program which calculates the age of the perticular student.
+1. Side-Effect-Free Functions:
+
+To view the relevant code, navigate to `functional_programming.py:42`.
+
 
 
 
