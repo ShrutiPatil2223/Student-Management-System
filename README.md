@@ -75,7 +75,7 @@ CI/CD - [![pipeline status](https://gitlab.com/ShrutiPatil2223/Project-CICD/badg
 
 ## 8. Unit tests
 
-I have imported unittest module for unit testing. Asserting method used to check whether actual value from database with the expected values are equal or not.
+I have imported unittest module for unit testing. Asserting method is used to check whether actual value from database and the expected values are equal or not.
 I have written 2 small unit tests. They are both based on CRUD Operation. 
 
 1. Creating a new student.
@@ -86,6 +86,17 @@ This is my [unittest_.py](https://github.com/ShrutiPatil2223/Student-Management-
 
 
 ## 9. IDE(Spyder)
+
+I have used Spyder as an IDE for this project. Some of the features are Syntax highlighting, Auto indentation, one line execution, code folding and many more which makes Spyder a good IDE to use.
+
+Shortcuts that I liked :
+
+F5 - To run file
+F9 - To run a selected line/lines
+Ctrl + Tab - To move between editor files which are already open
+Ctrl + L - Clears the console
+Ctrl + ! - Comment/uncomment the lines
+
 ## 10. Domain Specific Language
 ## 11. Functional Programming
 
