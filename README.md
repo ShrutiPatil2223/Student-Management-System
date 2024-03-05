@@ -82,7 +82,7 @@ I have written 2 small unit tests. They are both based on CRUD Operation.
 
 2. Update an existing student.
 
-This is my [unittest_.py] (https://github.com/ShrutiPatil2223/Student-Management-System/blob/d8dbb4f95e3443e5fc81d0a0dfa807f1a05219fd/unittest_.py) file.
+This is my [unittest_.py](https://github.com/ShrutiPatil2223/Student-Management-System/blob/d8dbb4f95e3443e5fc81d0a0dfa807f1a05219fd/unittest_.py) file.
 
 
 ## 9. IDE(Spyder)
