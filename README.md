@@ -106,15 +106,17 @@ Here, is the attached [DSL file](https://github.com/ShrutiPatil2223/Student-Mana
 
 ## 11. Functional Programming
 
-To cover all the functional apsects, I have written a python program which calculates the age of the perticular student.
+To cover all the functional apsects, I have written a python program which calculates the age of the particular student.
 
-1. Side-Effect-Free Functions:
-S
-Here, get_student_age function is side effect free function which calculates age of the student.
+- Side-Effect-Free Functions:
 
- [Fuctional Programming](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/functional_programming.py#L9 )
+get_student_age function is side effect free function which calculates age of the student.
 
+[Fuctional Programming](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/functional_programming.py#L9 )
 
+- Closure : 
+
+make_course_filter function is an example of closure. It defines a nested function called course_filter, which takes the course argument from its enclosing scope and returns it. 
 
 
 
