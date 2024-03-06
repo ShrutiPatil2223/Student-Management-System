@@ -31,7 +31,7 @@ For my project, I have used this 3 UML diagrams :
 3. [Use Case Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/1cc59052e29656270753d4ac11e6e960a4bb97d3/UML%20diagrams_updated/use%20case_update.png) - This Use Case Diagram shows that interaction between user and student management system GUI.
 
 ## 3. DDD
-I have drawn [DDD](https://github.com/ShrutiPatil2223/Student-Management-System/blob/1cc59052e29656270753d4ac11e6e960a4bb97d3/UML%20diagrams_updated/use%20case_update.png) and 
+I have drawn [DDD](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/UML%20diagrams_updated/DDD_update.jpg) and 
 [Core Domain Chart](https://github.com/ShrutiPatil2223/Student-Management-System/blob/18ca2a030b9d673bbfe34d9b58020f48a31e1f5f/UML%20diagrams_updated/DDD_updated_1.png)
 
 
