@@ -2,8 +2,9 @@ from tkinter import Tk
 from student_gui import StudentGUI
 
 def main():
+    """Main function to initialize the Tkinter application.""" 
     root = Tk()
-    app = StudentGUI(root)
+    StudentGUI(root)
     root.mainloop()
 
 if __name__ == "__main__":
