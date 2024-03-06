@@ -112,19 +112,15 @@ To cover all the functional apsects, I have written a python program which calcu
 [Fuctional Programming](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/functional_programming.py#L9 )
 
 - Closure : make_course_filter function is an example of closure. It defines a nested function called course_filter, which takes the course argument from its enclosing scope and returns it. 
-
 [Fuctional Programming](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/functional_programming.py#L13 )
 
 - Higher-order function : The process_data function is a higher-order function because it takes another function (func) as an argument and applies it to each element of the students list using map from functools.
-
 [Fuctional Programming](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/functional_programming.py#L5 )
   
 - Final Data Structure : List named "students" is defined which containa instances of the "Student" class with various arguments.
-
 [Fuctional Programming](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/functional_programming.py#L19 )
   
 - Functions as Parameters and Return Values : The filter_math_students variable is assigned the result of calling make_course_filter('Math'), which returns a closure (course_filter function) that filters students based on their course. This demonstrates the use of functions as return values.
-
 [Fuctional Programming](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/functional_programming.py#L26 )
 
 
