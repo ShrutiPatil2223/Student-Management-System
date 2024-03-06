@@ -31,7 +31,7 @@ For my project, I have used this 3 UML diagrams :
 3. [Use Case Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/1cc59052e29656270753d4ac11e6e960a4bb97d3/UML%20diagrams_updated/use%20case_update.png) - This Use Case Diagram shows that interaction between user and student management system GUI.
 
 ## 3. DDD
-I have drawn [DDD](https://github.com/ShrutiPatil2223/Student-Management-System/blob/1cc59052e29656270753d4ac11e6e960a4bb97d3/UML%20diagrams_updated/use%20case_update.png) and 
+I have drawn [DDD](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/UML%20diagrams_updated/DDD_update.jpg) and 
 [Core Domain Chart](https://github.com/ShrutiPatil2223/Student-Management-System/blob/18ca2a030b9d673bbfe34d9b58020f48a31e1f5f/UML%20diagrams_updated/DDD_updated_1.png)
 
 
@@ -74,16 +74,54 @@ gitlab-ci file - Its a configuration file which contains build,test and deployme
 CI/CD - [![pipeline status](https://gitlab.com/ShrutiPatil2223/Project-CICD/badges/main/pipeline.svg)](https://gitlab.com/ShrutiPatil2223/Project-CICD/-/commits/main)
 
 ## 8. Unit tests
+
+I have imported unittest module for unit testing. Asserting method is used to check whether actual value from database and the expected values are equal or not.
+I have written 2 small unit tests. They are both based on CRUD Operation. 
+
+1. Creating a new student.
+
+2. Update an existing student.
+
+This is my [unittest_.py](https://github.com/ShrutiPatil2223/Student-Management-System/blob/d8dbb4f95e3443e5fc81d0a0dfa807f1a05219fd/unittest_.py) file.
+
+
 ## 9. IDE(Spyder)
-## 10. Domain Specific Language
+
+I have used Spyder as an IDE for this project. Some of the features are Syntax highlighting, Auto indentation, one line execution, code folding and many more which makes Spyder a good IDE to use.
+
+Shortcuts that I liked :
+
+F5 - To run file
+F9 - To run a selected line/lines
+Ctrl + Tab - To move between editor files which are already open
+Ctrl + L - Clears the console
+Ctrl + ! - Comment/uncomment the lines
+
+## 10. Domain Specific Language (DSL)
+
+In my project, DSL file is related to the the project only.
+I have written small dsl program which does the CRUD operation. To call the DSL dile, I have written a python program as an interpereter to call the DSL file. Everything is gettign stored in students.db database file. So, I have used SQLite Viewer Web App(Online website) to see my database file.
+
+Here, is the attached [DSL file](https://github.com/ShrutiPatil2223/Student-Management-System/blob/84ab4e762cdc8137e1178a9c6e741711a08f25da/student.dsl) and [Interepreter file](https://github.com/ShrutiPatil2223/Student-Management-System/blob/84ab4e762cdc8137e1178a9c6e741711a08f25da/dsl_interpreter.py) and screenshot of the [students.db](https://github.com/ShrutiPatil2223/Student-Management-System/blob/84ab4e762cdc8137e1178a9c6e741711a08f25da/dsl_interpreter_db.png) after running interpreter file.
+
 ## 11. Functional Programming
 
+To cover all the functional apsects, I have written a python program which calculates the age of the particular student.
 
+- Side-Effect-Free Functions : get_student_age function is side effect free function which calculates age of the student.
+[Fuctional Programming](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/functional_programming.py#L9 )
 
+- Closure : make_course_filter function is an example of closure. It defines a nested function called course_filter, which takes the course argument from its enclosing scope and returns it. 
+[Fuctional Programming](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/functional_programming.py#L13 )
 
-
-
-
+- Higher-order function : The process_data function is a higher-order function because it takes another function (func) as an argument and applies it to each element of the students list using map from functools.
+[Fuctional Programming](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/functional_programming.py#L5 )
+  
+- Final Data Structure : List named "students" is defined which containa instances of the "Student" class with various arguments.
+[Fuctional Programming](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/functional_programming.py#L19 )
+  
+- Functions as Parameters and Return Values : The filter_math_students variable is assigned the result of calling make_course_filter('Math'), which returns a closure (course_filter function) that filters students based on their course. This demonstrates the use of functions as return values.
+[Fuctional Programming](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/functional_programming.py#L26 )
 
 
 
