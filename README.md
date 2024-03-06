@@ -57,6 +57,23 @@ These are the metrics listed below :
 - Security Rating [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 
 ## 5. Clean code Developement
+
+Clean code Developement [Cheatsheet](https://github.com/ShrutiPatil2223/Student-Management-System/blob/8308fe13863e139d7bd8a0baf6685dc310d40d07/cheatsheet.txt) is here and example from the code.
+
+Comments/Doctstrings : 
+Use Docstrings or comments to explain the function/methods.
+[Docstrings](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/mydb.py#L41 )
+
+Naming Convention : Here, I have used functions name like create_student,display_students,update_student,delete_student-This follows the snake_case convention.
+[Naming convention](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/student_gui.py#L72)
+
+DRY (Don't Repeat Yourself): Reusable functions, modules, or libraries can help prevent code duplication. In sonarcloud metrics, we can see no duplication
+Duplicated Lines [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
+
+Multiple lines : Keep lines short and readable so that horizontal scrolling could be avoided. Maximum 79 characters. Break down the lines.
+[multline code](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/student_gui.py#L39 )
+
+
 ## 6.& 7. Build and CI/CD
 For me, point 6 and 7 are integrated. I have used Gitlab-CI for the build and Continuous Integration/Continuous Deployment. As I was searching for the build management tool, I got to know that Maven, Ant and Gradle are mainly used for java based project. As my project is in Python, hence I have used Gitlab-CI.
 
