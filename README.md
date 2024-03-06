@@ -32,7 +32,7 @@ For my project, I have used this 3 UML diagrams :
 
 ## 3. DDD
 I have drawn [DDD](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/UML%20diagrams_updated/DDD_update.jpg) and 
-[Core Domain Chart](https://github.com/ShrutiPatil2223/Student-Management-System/blob/18ca2a030b9d673bbfe34d9b58020f48a31e1f5f/UML%20diagrams_updated/DDD_updated_1.png)
+[Core Domain Chart](https://github.com/ShrutiPatil2223/Student-Management-System/blob/18ca2a030b9d673bbfe34d9b58020f48a31e1f5f/UML%20diagrams_updated/DDD_updated_1.png) and [Event storming diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/e962eca03e5f4d68ecdd1109f52b08969007561a/UML%20diagrams_updated/event_storming.png)
 
 
 ## 4. Metrics
@@ -109,10 +109,15 @@ I have used Spyder as an IDE for this project. Some of the features are Syntax h
 Shortcuts that I liked :
 
 F5 - To run file
+
 F9 - To run a selected line/lines
+
 Ctrl + Tab - To move between editor files which are already open
+
 Ctrl + L - Clears the console
+
 Ctrl + ! - Comment/uncomment the lines
+
 
 ## 10. Domain Specific Language (DSL)
 
