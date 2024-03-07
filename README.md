@@ -31,7 +31,7 @@ For my project, I have used this 3 UML diagrams :
 3. [Use Case Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/1cc59052e29656270753d4ac11e6e960a4bb97d3/UML%20diagrams_updated/use%20case_update.png) - This Use Case Diagram shows that interaction between user and student management system GUI.
 
 ## 3. DDD
-I have drawn [DDD](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/UML%20diagrams_updated/DDD_update.jpg) and 
+I have drawn [Context Mapping Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/UML%20diagrams_updated/DDD_update.jpg) and 
 [Core Domain Chart](https://github.com/ShrutiPatil2223/Student-Management-System/blob/18ca2a030b9d673bbfe34d9b58020f48a31e1f5f/UML%20diagrams_updated/DDD_updated_1.png) and [Event storming diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/e962eca03e5f4d68ecdd1109f52b08969007561a/UML%20diagrams_updated/event_storming.png)
 
 
@@ -56,7 +56,7 @@ These are the metrics listed below :
 
 - Security Rating [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 
-## 5. Clean code Developement
+## 5. Clean Code Developement
 
 Clean code Developement [Cheatsheet](https://github.com/ShrutiPatil2223/Student-Management-System/blob/8308fe13863e139d7bd8a0baf6685dc310d40d07/cheatsheet.txt) is here and example from the code.
 
