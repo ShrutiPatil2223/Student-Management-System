@@ -28,11 +28,11 @@ And most important is how it helps to track the project activities.
 For my project, I have used this 3 UML diagrams :
 1. [Activity Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/0aaf8a70706785e4c1420de90f5653a4911635c3/UML%20diagrams_updated/Activity%20Diagram_update.jpg) - This Activity Diagram shows the workflow of the student managemnt system.
 2. [Sequence Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/1cc59052e29656270753d4ac11e6e960a4bb97d3/UML%20diagrams_updated/sequence%20diagram_update.jpg) - This Sequence Diagram shows that connection and interaction between 3 objects via carrying out messages over the time.
-3. [Use Case Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/1cc59052e29656270753d4ac11e6e960a4bb97d3/UML%20diagrams_updated/use%20case_update.png) - This Use Case Diagram shows that interaction between user and student management system GUI.
+3. [Use Case Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/UML%20diagrams_updated/use%20case%20UML.png) - This Use Case Diagram shows that interaction between user and student management system GUI.
 
 ## 3. DDD
 I have drawn [Context Mapping Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/UML%20diagrams_updated/DDD_update.jpg) and 
-[Core Domain Chart](https://github.com/ShrutiPatil2223/Student-Management-System/blob/18ca2a030b9d673bbfe34d9b58020f48a31e1f5f/UML%20diagrams_updated/DDD_updated_1.png) and [Event storming diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/e962eca03e5f4d68ecdd1109f52b08969007561a/UML%20diagrams_updated/event_storming.png)
+[Core Domain Chart](https://github.com/ShrutiPatil2223/Student-Management-System/blob/18ca2a030b9d673bbfe34d9b58020f48a31e1f5f/UML%20diagrams_updated/DDD_updated_1.png) and [Event storming diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/UML%20diagrams_updated/EVENT%20STORMING.png)
 
 
 ## 4. Metrics
