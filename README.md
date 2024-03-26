@@ -31,8 +31,8 @@ For my project, I have used this 3 UML diagrams :
 3. [Use Case Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/1cc59052e29656270753d4ac11e6e960a4bb97d3/UML%20diagrams_updated/use%20case_update.png) - This Use Case Diagram shows that interaction between user and student management system GUI.
 
 ## 3. DDD
-I have drawn [DDD](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/UML%20diagrams_updated/DDD_update.jpg) and 
-[Core Domain Chart](https://github.com/ShrutiPatil2223/Student-Management-System/blob/18ca2a030b9d673bbfe34d9b58020f48a31e1f5f/UML%20diagrams_updated/DDD_updated_1.png)
+I have drawn [Context Mapping Diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/UML%20diagrams_updated/DDD_update.jpg) and 
+[Core Domain Chart](https://github.com/ShrutiPatil2223/Student-Management-System/blob/18ca2a030b9d673bbfe34d9b58020f48a31e1f5f/UML%20diagrams_updated/DDD_updated_1.png) and [Event storming diagram](https://github.com/ShrutiPatil2223/Student-Management-System/blob/e962eca03e5f4d68ecdd1109f52b08969007561a/UML%20diagrams_updated/event_storming.png)
 
 
 ## 4. Metrics
@@ -56,7 +56,24 @@ These are the metrics listed below :
 
 - Security Rating [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
 
-## 5. Clean code Developement
+## 5. Clean Code Developement
+
+Clean code Developement [Cheatsheet](https://github.com/ShrutiPatil2223/Student-Management-System/blob/8308fe13863e139d7bd8a0baf6685dc310d40d07/cheatsheet.txt) is here and example from the code.
+
+Comments/Doctstrings : 
+Use Docstrings or comments to explain the function/methods.
+[Docstrings](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/mydb.py#L41 )
+
+Naming Convention : Here, I have used functions name like create_student,display_students,update_student,delete_student-This follows the snake_case convention.
+[Naming convention](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/student_gui.py#L72)
+
+DRY (Don't Repeat Yourself): Reusable functions, modules, or libraries can help prevent code duplication. In sonarcloud metrics, we can see no duplication
+Duplicated Lines [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ShrutiPatil2223_Student-Management-System&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ShrutiPatil2223_Student-Management-System)
+
+Multiple lines : Keep lines short and readable so that horizontal scrolling could be avoided. Maximum 79 characters. Break down the lines.
+[multline code](https://github.com/ShrutiPatil2223/Student-Management-System/blob/main/student_gui.py#L39 )
+
+
 ## 6.& 7. Build and CI/CD
 For me, point 6 and 7 are integrated. I have used Gitlab-CI for the build and Continuous Integration/Continuous Deployment. As I was searching for the build management tool, I got to know that Maven, Ant and Gradle are mainly used for java based project. As my project is in Python, hence I have used Gitlab-CI.
 
@@ -92,10 +109,15 @@ I have used Spyder as an IDE for this project. Some of the features are Syntax h
 Shortcuts that I liked :
 
 F5 - To run file
+
 F9 - To run a selected line/lines
+
 Ctrl + Tab - To move between editor files which are already open
+
 Ctrl + L - Clears the console
+
 Ctrl + ! - Comment/uncomment the lines
+
 
 ## 10. Domain Specific Language (DSL)
 
